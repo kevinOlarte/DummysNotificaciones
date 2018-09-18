@@ -1,0 +1,14 @@
+co\com\datatools\c2\controladores\ConsultasWS$1.class
+co\com\datatools\c2\controladores\ConsultasWS.class
+co\com\datatools\c2\util\Util.class
+co\com\datatools\c2\dto\PeticionDto.class
+co\com\datatools\c2\utilidades\Parameters.class
+co\com\datatools\c2\utilidades\CrearExcel.class
+co\com\datatools\c2\utilidades\UtilidadesGenerales.class
+co\com\datatools\c2\dto\RespuestaSolicitudDto.class
+co\com\datatools\c2\controladores\Aplicacion.class
+co\com\datatools\c2\utilidades\Parameters$Strings.class
+co\com\datatools\c2\dto\direccionCompuesta.class
+co\com\datatools\c2\dto\PeticionListaDto.class
+co\com\datatools\c2\utilidades\DatosEncabezadoExcel.class
+co\com\datatools\c2\utilidades\Patrones.class
